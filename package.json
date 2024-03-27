@@ -1,6 +1,6 @@
 {
   "name": "dc-image-size-lint",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "bin": "bin/index.js",
